@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>2018/03/02 13:31:56</name>
+    <name>2021/07/17 00:05:59</name>
     <Style id="SYMBOL0">
       <IconStyle>
         <scale>1.0</scale>
@@ -578,627 +578,977 @@
         </Icon>
       </IconStyle>
     </Style>
+    <Style id="SYMBOL48">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/2134.gif</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="SYMBOL49">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/2134.gif</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="SYMBOL50">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/2134.gif</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="SYMBOL51">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/2134.gif</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="SYMBOL52">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/2134.gif</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="SYMBOL53">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/2134.gif</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="SYMBOL54">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/2134.gif</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="SYMBOL55">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/2134.gif</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="SYMBOL56">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/2134.gif</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="SYMBOL57">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/2134.gif</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="SYMBOL58">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/2134.gif</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="SYMBOL59">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/2134.gif</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="SYMBOL60">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/2134.gif</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="SYMBOL61">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/2134.gif</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
     <Folder>
-      <name>2018/03/02 13:31:56</name>
+      <name>2021/07/17 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
-        <name>多機能型事業所第二なぎの木園</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>新宮市新宮３４１５－１</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>新宮市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>新宮市</td></tr></table>]]></description>
+        <name>特別養護老人ホーム　アンシアナトー</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>和歌山市松江東１丁目７番２５号</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>和歌山市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>和歌山市</td></tr></table>]]></description>
         <styleUrl>#SYMBOL0</styleUrl>
         <Point>
-          <coordinates>135.99276275163,33.712182269064</coordinates>
+          <coordinates>135.134601775817,34.2439688110532</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2018/03/02 13:31:56</name>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>グループ・ホーム　ぷすぷす</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>和歌山市松江東１丁目７番２５号</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>和歌山市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>和歌山市</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL1</styleUrl>
+        <Point>
+          <coordinates>135.134601775817,34.2439688110532</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>救護施設　かつらぎ園</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>和歌山市園部３６６番地の１</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>和歌山市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>和歌山市</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL2</styleUrl>
+        <Point>
+          <coordinates>135.189335219492,34.2710706180699</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>特別養護老人ホーム　紀伊てまり苑</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>和歌山市西田井２２４番地</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>和歌山市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>和歌山市</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL3</styleUrl>
+        <Point>
+          <coordinates>135.232858972467,34.2573990754746</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>特別養護老人ホーム　紀三井寺苑</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>和歌山市紀三井寺５６０－２</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>和歌山市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>和歌山市</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL4</styleUrl>
+        <Point>
+          <coordinates>135.184619916063,34.181350440335</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>特別養護老人ホーム　喜成会</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>和歌山市北野１２８</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>和歌山市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>和歌山市</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL5</styleUrl>
+        <Point>
+          <coordinates>135.249581174241,34.2649212513929</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>養護老人ホーム　喜和の郷</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>和歌山市北野572-1</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>和歌山市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>和歌山市</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL6</styleUrl>
+        <Point>
+          <coordinates>135.245645586457,34.2723920376164</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>高齢者総合ケアセンター　みらい</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>和歌山市北野118－2</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>和歌山市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>和歌山市</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL7</styleUrl>
+        <Point>
+          <coordinates>135.247686858543,34.2653454047799</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>地域密着型介護老人福祉施設　三寿苑</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>和歌山市島橋南ノ丁６番２１号</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>和歌山市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>和歌山市</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL8</styleUrl>
+        <Point>
+          <coordinates>135.14751159818,34.2431056326656</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>竹の里園　デイサービスセンター</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>和歌山市明王寺３番地の１</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>和歌山市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>和歌山市</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL9</styleUrl>
+        <Point>
+          <coordinates>135.25414687588,34.2133041317668</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>第Ⅱ竹の里園　デイサービスセンター</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>和歌山市明王寺１７番地の１</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>和歌山市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>和歌山市</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL10</styleUrl>
+        <Point>
+          <coordinates>135.257519930867,34.2146733754085</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>第Ⅲ竹の里園</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>和歌山市明王寺１６番地の１</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>和歌山市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、知的障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>和歌山市</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL11</styleUrl>
+        <Point>
+          <coordinates>135.257519930867,34.2146733754085</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>特別養護老人ホーム　親和園</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>和歌山市杭ノ瀬２５５－２</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>和歌山市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>和歌山市</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL12</styleUrl>
+        <Point>
+          <coordinates>135.189406647588,34.2110566854349</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>地域密着型介護老人福祉施設　第五親和園</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>和歌山市杭ノ瀬４３２－３</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>和歌山市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>和歌山市</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL13</styleUrl>
+        <Point>
+          <coordinates>135.191800146482,34.2061071855073</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>特別養護老人ホーム　あんず苑</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>和歌山市東田中３０７番地</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>和歌山市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>和歌山市</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL14</styleUrl>
+        <Point>
+          <coordinates>135.281844197354,34.2370258520576</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>有功ヶ丘学園</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>和歌山市園部３８１－２</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>和歌山市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、知的障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>和歌山市</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL15</styleUrl>
+        <Point>
+          <coordinates>135.188105992533,34.2694432052377</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>介護付き住宅　みのり</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>和歌山市弘西５７１</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>和歌山市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、知的障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>和歌山市</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL16</styleUrl>
+        <Point>
+          <coordinates>135.239451561952,34.2716096351668</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>春風会きし</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>和歌山市栄谷４６０－１</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>和歌山市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>和歌山市</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL17</styleUrl>
+        <Point>
+          <coordinates>135.161684790435,34.2606103537568</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>ウイズ</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>和歌山市和田８０－１</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>和歌山市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>視覚、知的障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>和歌山市</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL18</styleUrl>
+        <Point>
+          <coordinates>135.214685853345,34.2014178063173</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>ケアハウス黎明の里</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>和歌山市北野６６９－１</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>和歌山市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、知的障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>和歌山市</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL19</styleUrl>
+        <Point>
+          <coordinates>135.251105955439,34.2745911402941</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>海南市海南保健福祉センター</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>海南市日方1519番地10</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>海南市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、知的障害、発達障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>海南市</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL20</styleUrl>
+        <Point>
+          <coordinates>135.210190923486,34.1553862029723</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>障害者支援施設ハニーホーム東雲</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>海南市小野田1633-13</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>海南市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、知的障害、発達障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>海南市</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL21</styleUrl>
+        <Point>
+          <coordinates>135.246636097002,34.1604063404512</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>海南市下津保健福祉センター</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>海南市下津町上１４－６</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>海南市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、知的障害、発達障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>海南市</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL22</styleUrl>
+        <Point>
+          <coordinates>135.15407255891,34.1164209460255</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>有田市文化福祉センター</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>有田市箕島27</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>有田市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>有田市</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL23</styleUrl>
+        <Point>
+          <coordinates>135.124255559526,34.0835402965369</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>御坊市福祉センター</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>御坊市薗３５０</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>御坊市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>御坊市</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL24</styleUrl>
+        <Point>
+          <coordinates>135.152783779333,33.8908456423969</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>打田保健福祉センター</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>紀の川市西大井３３８</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>紀の川市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>視覚障害、肢体不自由</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>紀の川市</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL1</styleUrl>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>紀の川市西大井３３８</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>紀の川市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、視覚障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>紀の川市</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL25</styleUrl>
         <Point>
-          <coordinates>135.362570107022,34.2694055194861</coordinates>
+          <coordinates>135.362557343982,34.2693954715427</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2018/03/02 13:31:56</name>
+      <name>2021/07/17 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>上岩出地区公民館</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>岩出市水栖１９９－３</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>岩出市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>視覚障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>岩出市</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL2</styleUrl>
+        <styleUrl>#SYMBOL26</styleUrl>
         <Point>
-          <coordinates>135.321515742058,34.2678986713677</coordinates>
+          <coordinates>135.321502740526,34.2678883021137</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2018/03/02 13:31:56</name>
+      <name>2021/07/17 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>紀泉台地区公民館</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>岩出市紀泉台４２８</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>岩出市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>視覚障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>岩出市</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL3</styleUrl>
+        <styleUrl>#SYMBOL27</styleUrl>
         <Point>
-          <coordinates>135.290644434598,34.2831230249599</coordinates>
+          <coordinates>135.290629984311,34.2831117985831</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2018/03/02 13:31:56</name>
+      <name>2021/07/17 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
-        <name>特別養護老人ホーム美里園</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>紀美野町安井６番地１</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>紀美野町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>紀美野町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL4</styleUrl>
+        <name>船山地区公民館</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>岩出市山崎118-4</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>岩出市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>視覚障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>岩出市</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL28</styleUrl>
         <Point>
-          <coordinates>135.346580485378,34.1489814653727</coordinates>
+          <coordinates>135.318915155131,34.2478486321469</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2018/03/02 13:31:56</name>
+      <name>2021/07/17 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>特別養護老人ホームやすらぎ園</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>紀美野町下佐々１４０８番地７</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>紀美野町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>海南市、紀美野町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL5</styleUrl>
+        <styleUrl>#SYMBOL29</styleUrl>
         <Point>
-          <coordinates>135.311355562198,34.1518731365456</coordinates>
+          <coordinates>135.311344156501,34.1518616432939</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2018/03/02 13:31:56</name>
+      <name>2021/07/17 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>かつらぎ町地域福祉センター</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>かつらぎ町大字丁ノ町2238-2</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>かつらぎ町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>かつらぎ町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL6</styleUrl>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>かつらぎ町大字丁ノ町2238-2</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>かつらぎ町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、知的障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>かつらぎ町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL30</styleUrl>
         <Point>
-          <coordinates>135.518876002206,34.2984292550496</coordinates>
+          <coordinates>135.518862441781,34.2984208377648</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2018/03/02 13:31:56</name>
+      <name>2021/07/17 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>九度山町中央公民館</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>和歌山県伊都郡九度山町九度山1194</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>九度山町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>九度山町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL7</styleUrl>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>和歌山県伊都郡九度山町九度山1194</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>九度山町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、知的障害、精神障害、発達障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>九度山町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL31</styleUrl>
         <Point>
-          <coordinates>135.561815318937,34.2876469612071</coordinates>
+          <coordinates>135.561801857954,34.2876391996954</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2018/03/02 13:31:56</name>
+      <name>2021/07/17 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
-        <name>グループホーム　平見ハイツ</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>東牟婁郡太地町太地９１６</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>太地町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由知的障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>太地町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL8</styleUrl>
+        <name>特別養護老人ホーム　南山苑</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>高野町高野山44-22</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>高野町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>高野町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL32</styleUrl>
         <Point>
-          <coordinates>135.952666095291,33.5874806539039</coordinates>
+          <coordinates>135.592553454002,34.2207091892317</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2018/03/02 13:31:56</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>北山村生活支援ハウス（高齢者福祉センター）</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>東牟婁郡北山村大沼３１２</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>北山村</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>北山村</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL9</styleUrl>
-        <Point>
-          <coordinates>135.967165383255,33.9291886255021</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2018/03/02 13:31:56</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>北山村村民会館</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>北山村大沼６６</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>北山村</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>北山村</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL10</styleUrl>
-        <Point>
-          <coordinates>135.968189516061,33.9315549237421</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2018/03/02 13:31:56</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>古座あさかぜ園</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>東牟婁郡串本町上田原1237</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>串本町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>新宮市、那智勝浦町、太地町、古座川町、北山村、串本町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL11</styleUrl>
-        <Point>
-          <coordinates>135.868590139779,33.556720447695</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2018/03/02 13:31:56</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>特別養護老人ホームにしき園</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>東牟婁郡串本町二色１６０</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>串本町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>視覚障害、肢体不自由</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>串本町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL12</styleUrl>
-        <Point>
-          <coordinates>135.768946017393,33.4891324161064</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2018/03/02 13:31:56</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>グループホーム　潮岬あゆみ園</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>東牟婁郡串本町潮岬６５９</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>串本町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>視覚障害、肢体不自由</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>串本町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL13</styleUrl>
-        <Point>
-          <coordinates>135.77913081737,33.4544583193614</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2018/03/02 13:31:56</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>小規模多機能型居宅介護事業所ほっとハウス　うわの園</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>東牟婁郡串本町潮岬６５９</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>串本町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>視覚障害、肢体不自由</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>串本町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL14</styleUrl>
-        <Point>
-          <coordinates>135.778854461541,33.4548350270172</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2018/03/02 13:31:56</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>特別養護老人ホーム上野山にしき園</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>東牟婁郡串本町津荷２９番地２</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>串本町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>視覚障害、肢体不自由</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>串本町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL15</styleUrl>
-        <Point>
-          <coordinates>135.838488231015,33.5153294924583</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2018/03/02 13:31:56</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>海南市海南保健福祉センター</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>海南市日方1519番地10</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>海南市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由知的障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>海南市</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL16</styleUrl>
-        <Point>
-          <coordinates>135.21020217448,34.15539799892</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2018/03/02 13:31:56</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>海南市下津保健福祉センター</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>海南市下津町上１４－６</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>海南市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由知的障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>海南市</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL17</styleUrl>
-        <Point>
-          <coordinates>135.154083152278,34.1164330272992</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2018/03/02 13:31:56</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>有田市文化福祉センター</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>有田市箕島27</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>有田市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>有田市</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL18</styleUrl>
-        <Point>
-          <coordinates>135.124266930366,34.0835530353026</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2018/03/02 13:31:56</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>田辺市総合センター</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>田辺市高雄一丁目２３番１号</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>田辺市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>田辺市</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL19</styleUrl>
-        <Point>
-          <coordinates>135.377357307104,33.7355586406906</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2018/03/02 13:31:56</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>杉の郷</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>新宮市熊野川町赤木1522-1</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>新宮市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>新宮市</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL20</styleUrl>
-        <Point>
-          <coordinates>135.852424364267,33.7789901499148</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2018/03/02 13:31:56</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>杉の郷　えぼし寮</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>新宮市高田1642-1</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>新宮市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>新宮市</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL21</styleUrl>
-        <Point>
-          <coordinates>135.908339145416,33.7300440021747</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2018/03/02 13:31:56</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>障害児者支援センター　虹</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>新宮市蜂伏13番43号</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>新宮市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>新宮市</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL22</styleUrl>
-        <Point>
-          <coordinates>135.962115312055,33.6842387295378</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2018/03/02 13:31:56</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>障害者支援施設なぎの木園</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>新宮市木ノ川７０３</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>新宮市</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>新宮市</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL23</styleUrl>
-        <Point>
-          <coordinates>135.953181417015,33.6892694220366</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2018/03/02 13:31:56</name>
+      <name>2021/07/17 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>富貴高齢者生活福祉センター</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>高野町東富貴442-1</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>高野町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>高野町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL24</styleUrl>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>高野町東富貴442-1</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>高野町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>高野町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL33</styleUrl>
         <Point>
-          <coordinates>135.700369648857,34.2608866879492</coordinates>
+          <coordinates>135.700357870487,34.2608803996829</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2018/03/02 13:31:56</name>
+      <name>2021/07/17 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>高野町保健福祉センター</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>高野山26番地の8</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>高野町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>高野町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL25</styleUrl>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>高野山26番地の8</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>高野町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>高野町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL34</styleUrl>
         <Point>
-          <coordinates>135.591668427108,34.2214799872616</coordinates>
+          <coordinates>135.591656039691,34.2214729660556</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2018/03/02 13:31:56</name>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>富貴児童館</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>高野町西富貴４５</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>高野町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>高野町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL35</styleUrl>
+        <Point>
+          <coordinates>135.699190453504,34.2614814097543</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>湯浅町社会福祉協議会（地域福祉センター）</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>湯浅町湯浅１６７５－１</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>湯浅町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>湯浅町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL36</styleUrl>
+        <Point>
+          <coordinates>135.177454848816,34.037560981063</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>ほたるの湯</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>広川町下津木１５３９</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>広川町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>視覚障害、肢体不自由</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>広川町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL26</styleUrl>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>広川町下津木１５３９</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>広川町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>広川町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL37</styleUrl>
         <Point>
-          <coordinates>135.227977815275,33.9721866488401</coordinates>
+          <coordinates>135.227968645361,33.9721720034647</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2018/03/02 13:31:56</name>
+      <name>2021/07/17 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>津木中学校</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>広川町下津木７１６</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>広川町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>視覚障害、聴覚障害、肢体不自由</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>広川町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL27</styleUrl>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>広川町下津木７１６</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>広川町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>広川町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL38</styleUrl>
         <Point>
-          <coordinates>135.212974563792,33.9801313745649</coordinates>
+          <coordinates>135.212965393955,33.9801163437559</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2018/03/02 13:31:56</name>
+      <name>2021/07/17 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>金屋農村センター</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>有田川町金屋657番地</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>有田川町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>視覚障害、聴覚障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>有田川町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL28</styleUrl>
+        <styleUrl>#SYMBOL39</styleUrl>
         <Point>
-          <coordinates>135.250737542367,34.0668043180715</coordinates>
+          <coordinates>135.250727231217,34.0667899724735</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2018/03/02 13:31:56</name>
+      <name>2021/07/17 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>藤並公民館</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>有田川町天満388番地1</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>有田川町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>視覚障害、聴覚障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>有田川町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL29</styleUrl>
+        <styleUrl>#SYMBOL40</styleUrl>
         <Point>
-          <coordinates>135.206342727341,34.0602838676479</coordinates>
+          <coordinates>135.2063328669,34.0602697633398</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2018/03/02 13:31:56</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>介護老人保健施設 つばさ</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>有田川町吉原902番地</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>有田川町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>有田川町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL30</styleUrl>
-        <Point>
-          <coordinates>135.252579184968,34.0544858691274</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2018/03/02 13:31:56</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>美浜町地域福祉センター</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>美浜町和田１１３８－３２６</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>美浜町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>美浜町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL31</styleUrl>
-        <Point>
-          <coordinates>135.134095337295,33.8938155390716</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2018/03/02 13:31:56</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>和田小学校</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>美浜町和田１１３８－１７６</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>美浜町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>美浜町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL32</styleUrl>
-        <Point>
-          <coordinates>135.131675789243,33.8956349397765</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2018/03/02 13:31:56</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>松原小学校</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>美浜町吉原７７４－５</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>美浜町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>美浜町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL33</styleUrl>
-        <Point>
-          <coordinates>135.144608866896,33.8893186619099</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2018/03/02 13:31:56</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>松洋中学校</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>美浜町９５８</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>美浜町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>美浜町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL34</styleUrl>
-        <Point>
-          <coordinates>135.133312411445,33.8936317321585</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2018/03/02 13:31:56</name>
+      <name>2021/07/17 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>ふれあいセンター</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>日高郡日高町大字小中1308</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>日高町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>日高町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL35</styleUrl>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>日高郡日高町大字小中1308</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>日高町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>日高町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL41</styleUrl>
         <Point>
-          <coordinates>135.126218519221,33.9248535261097</coordinates>
+          <coordinates>135.126210041456,33.9248385099895</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2018/03/02 13:31:56</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>特別養護老人ホームゆら博愛園</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>日高郡由良町吹井９１０－１</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>由良町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>由良町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL36</styleUrl>
-        <Point>
-          <coordinates>135.106621383148,33.969431401379</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2018/03/02 13:31:56</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>養護老人ホームときわ寮</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>日高郡美浜町大字和田１１３８－１８０</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>由良町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>由良町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL37</styleUrl>
-        <Point>
-          <coordinates>135.123896641015,33.8933455226348</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2018/03/02 13:31:56</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>特別養護老人ホームときわ寮</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>日高郡美浜町大字三尾９</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>由良町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>由良町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL38</styleUrl>
-        <Point>
-          <coordinates>135.105619115444,33.8939071185238</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2018/03/02 13:31:56</name>
+      <name>2021/07/17 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>日高川町農村環境改善センター</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>日高郡日高川町大字小熊2416番地</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>日高川町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>日高川町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL39</styleUrl>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>日高郡日高川町大字小熊2416番地</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>日高川町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>日高川町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL42</styleUrl>
         <Point>
-          <coordinates>135.186877774612,33.9112681024108</coordinates>
+          <coordinates>135.18686937998,33.9112529685386</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2018/03/02 13:31:56</name>
+      <name>2021/07/17 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>日高川町地域交流センター</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>日高郡日高川町大字高津尾718番地3</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>日高川町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>視覚障害、肢体不自由知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>日高川町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL40</styleUrl>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>日高郡日高川町大字高津尾718番地3</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>日高川町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、視覚障害、知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>日高川町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL43</styleUrl>
         <Point>
-          <coordinates>135.295524459589,33.9591004510643</coordinates>
+          <coordinates>135.2955150058,33.9590865762683</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2018/03/02 13:31:56</name>
+      <name>2021/07/17 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>介護老人福祉施設「美山の里」</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>日高郡日高川町大字初湯川213番地1</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>日高川町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>日高川町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL41</styleUrl>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>日高郡日高川町大字初湯川213番地1</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>日高川町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>日高川町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL44</styleUrl>
         <Point>
-          <coordinates>135.380830724623,33.956421486954</coordinates>
+          <coordinates>135.380821918974,33.9564089460986</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2018/03/02 13:31:56</name>
+      <name>2021/07/17 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>日高川町保健福祉センター</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>日高郡日高川町大字川原河264番地</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>日高川町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>視覚障害、肢体不自由知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>日高川町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL42</styleUrl>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>日高郡日高川町大字川原河264番地</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>日高川町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、視覚障害、知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>日高川町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL45</styleUrl>
         <Point>
-          <coordinates>135.368316871191,33.9821659146318</coordinates>
+          <coordinates>135.368307859908,33.9821532237849</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2018/03/02 13:31:56</name>
+      <name>2021/07/17 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>介護老人福祉施設　白寿苑</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>日高郡日高川町船津１６６４</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>日高川町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>日高川町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL43</styleUrl>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>日高郡日高川町船津１６６４</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>日高川町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>日高川町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL46</styleUrl>
         <Point>
-          <coordinates>135.269058679364,33.9586181363039</coordinates>
+          <coordinates>135.269049486255,33.9586039889727</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2018/03/02 13:31:56</name>
+      <name>2021/07/17 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>特別養護老人ホームときわ寮川辺園</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>日高郡日高川町大字和佐2081-10</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>日高川町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由、知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>日高川町、由良町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL44</styleUrl>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>日高郡日高川町大字和佐2081-10</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>日高川町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>日高川町、由良町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL47</styleUrl>
         <Point>
-          <coordinates>135.213647774795,33.897972672773</coordinates>
+          <coordinates>135.213639951228,33.8979575391398</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2018/03/02 13:31:56</name>
+      <name>2021/07/17 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
-        <name>那智勝浦町福祉健康センター</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>東牟婁郡那智勝浦町大字天満1418-2</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>那智勝浦町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>那智勝浦町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL45</styleUrl>
+        <name>南紀医療福祉センター</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>西牟婁郡上富田町岩田１７７６－１</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>上富田町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、知的障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>上富田町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL48</styleUrl>
         <Point>
-          <coordinates>135.934565102449,33.6318904289069</coordinates>
+          <coordinates>135.444023232787,33.70808727962</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2018/03/02 13:31:56</name>
+      <name>2021/07/17 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
-        <name>太地町地域センター　なぎ</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>東牟婁郡太地町太地１０５６－８</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>太地町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>太地町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL46</styleUrl>
+        <name>地域福祉センター</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>西牟婁郡すさみ町周参見４１３３</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>すさみ町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>すさみ町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL49</styleUrl>
         <Point>
-          <coordinates>135.955572778033,33.5864695533307</coordinates>
+          <coordinates>135.495713827351,33.5498181597446</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2018/03/02 13:31:56</name>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>周参見保育所</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>西牟婁郡すさみ町周参見2871-1</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>すさみ町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>すさみ町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL50</styleUrl>
+        <Point>
+          <coordinates>135.511010478793,33.5565293711466</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>けんゆう苑</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>西牟婁郡すさみ町江住８００</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>すさみ町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>すさみ町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL51</styleUrl>
+        <Point>
+          <coordinates>135.601234092625,33.5057659144088</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>太地町地域福祉センター　なぎ</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>東牟婁郡太地町太地１０５６－８</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>太地町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>太地町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL52</styleUrl>
+        <Point>
+          <coordinates>135.955574611855,33.5864612541991</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>グループホーム　暖海ハイツ</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>東牟婁郡太地町太地２９９５-1</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>太地町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、肢体不自由知的障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>太地町</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL47</styleUrl>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>東牟婁郡太地町太地２９９５-1</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>太地町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、知的障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>太地町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL53</styleUrl>
         <Point>
-          <coordinates>135.942563682368,33.5961404856457</coordinates>
+          <coordinates>135.942565432106,33.5961322499291</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>グループホーム　平見ハイツ</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>東牟婁郡太地町太地９１６</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>太地町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、知的障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>太地町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL54</styleUrl>
+        <Point>
+          <coordinates>135.95266790451,33.5874723436669</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>北山村生活支援ハウス（高齢者福祉センター）</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>東牟婁郡北山村大沼３１２</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>北山村</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>北山村</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL55</styleUrl>
+        <Point>
+          <coordinates>135.967161089672,33.9291836750045</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>北山村村民会館</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>北山村大沼６６</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>北山村</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>聴覚障害、視覚障害、知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>北山村</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL56</styleUrl>
+        <Point>
+          <coordinates>135.96818522317,33.9315500546656</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>古座あさかぜ園</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>東牟婁郡串本町上田原1237</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>串本町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>肢体不自由、聴覚障害、視覚障害、知的障害、発達障害、精神障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>太地町、古座川町、北山村、串本町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL57</styleUrl>
+        <Point>
+          <coordinates>135.868590953745,33.5567111433305</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>特別養護老人ホームにしき園</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>東牟婁郡串本町二色１６０</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>串本町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>視覚障害、肢体不自由</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>串本町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL58</styleUrl>
+        <Point>
+          <coordinates>135.768950860996,33.4891226013729</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>グループホーム　潮岬あゆみ園</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>東牟婁郡串本町潮岬６５９</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>串本町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>視覚障害、肢体不自由</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>串本町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL59</styleUrl>
+        <Point>
+          <coordinates>135.779135055363,33.4544480977611</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>特別養護老人ホーム上野山にしき園</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>東牟婁郡串本町津荷２９番地２</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>串本町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>視覚障害、肢体不自由</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>串本町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL60</styleUrl>
+        <Point>
+          <coordinates>135.838490276558,33.5153202117332</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2021/07/17 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>通園らっこ</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td>串本町津荷250-1</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >市町村</td><td>串本町</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >対応可能な障害種別</td><td>視覚障害、発達障害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >福祉避難所</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >肢体不自由</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >聴覚障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >視覚障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >知的障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >精神障害</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >発達障害</td><td>○</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >指定市町村</td><td>串本町</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL61</styleUrl>
+        <Point>
+          <coordinates>135.833667037568,33.5196423145109</coordinates>
         </Point>
       </Placemark>
     </Folder>
